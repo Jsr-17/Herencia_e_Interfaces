@@ -21,8 +21,6 @@ public class Bulbasaur extends Pokemon implements MovimientosPlanta,MovimientosN
     @Override
     public void latigoCepa() {
         System.out.println("Bulbasaur usa latigo cepa");
-
-        
     }
 
 
